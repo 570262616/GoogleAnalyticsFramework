@@ -1,7 +1,8 @@
 Pod::Spec.new do |spec|
   spec.name                 = 'GoogleAnalyticsFramework'
   spec.version              = '3.14'
-  spec.platforms               = { :ios => '5.0' }
+  spec.platforms            = { :ios => '5.0' }
+  spec.ios.deployment_target = '8.0'
   spec.license              = { 'text' => 'Copyright 2016 Google','type' => 'Copyright' }
   spec.homepage             = 'https://github.com/rbirrielaltimetrik/GoogleAnalyticsFramework'
   spec.authors              = { 'Rodrigo Birriel' => 'rbirriel@altimetrik.com' }
