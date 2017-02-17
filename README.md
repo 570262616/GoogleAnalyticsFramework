@@ -1,2 +1,2 @@
 # GoogleAnalyticsFramework
-Converting GoogleAnalytics static library to dynamic one, using Carthage tool.
+Converting GoogleAnalytics static library into dynamic one, using Carthage tool.
